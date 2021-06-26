@@ -8,3 +8,6 @@
 
 >### Number System
 >[Number System](https://github.com/shreyash00007/java/blob/main/NumberSystem.java)
+
+>### Arrays
+>[Arrays]()
