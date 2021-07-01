@@ -16,4 +16,4 @@
 >[Operators](https://github.com/shreyash00007/java/blob/main/JavaOperators.java)
 
 >### Maths class
->[Math class]()
+>[Math class](https://github.com/shreyash00007/java/blob/main/MathsClass.java)
