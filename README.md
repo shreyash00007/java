@@ -20,3 +20,6 @@
 
 >### Refactoring
 >[Refactoring](https://github.com/shreyash00007/java/blob/main/RefactoringDemo.java)
+
+>### Operations
+>[Operations]()
